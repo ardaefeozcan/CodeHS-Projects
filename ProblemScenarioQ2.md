@@ -1,4 +1,4 @@
-# ProblemScenarioQ1
+# ProblemScenarioQ2
 
 
 import java.util.Scanner;
