@@ -1,5 +1,7 @@
 # ProblemScenarioQ2
 
+The program asks the user to enter the number of ice creams sold for Chocolate, Vanilla, and Strawberry for three days. It calculates the total sales and the average sales (decimal and integer using casting). The shop’s performance grade (no if-else).
+
     import java.util.Scanner;
     
     
