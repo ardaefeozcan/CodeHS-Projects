@@ -1,5 +1,7 @@
 #ProblemScenerioQ3
 
+A rocket is launched vertically from Earth.vThe user enters the rocket’s mass (kg), engine force (N), and burn time (s).The program calculates:Net acceleration = F / m, Final velocity = a * t, Altitude = 0.5 * a * t * t. Display both decimal and integer (cast) values.
+
     import java.util.Scanner;
     public class MyProgram
     {
