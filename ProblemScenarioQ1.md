@@ -4,7 +4,7 @@
 ### The sum
 ### The difference
 ### The product
-## The quotient (if the second number is not zero; otherwise, show a warning)
+### The quotient (if the second number is not zero; otherwise, show a warning)
 
 
     import java.util.Scanner;
