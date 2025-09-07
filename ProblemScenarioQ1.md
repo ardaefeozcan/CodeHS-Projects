@@ -1,6 +1,6 @@
 # ProblemScenarioQ1
 
-## Write a program that asks the user to enter two numbers. The program should calculate and display:
+### Write a program that asks the user to enter two numbers. The program should calculate and display:
 ### The sum
 ### The difference
 ### The product
