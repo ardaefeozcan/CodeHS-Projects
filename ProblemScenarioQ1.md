@@ -1,5 +1,12 @@
 # ProblemScenarioQ1
 
+## Write a program that asks the user to enter two numbers. The program should calculate and display:
+### The sum
+### The difference
+### The product
+## The quotient (if the second number is not zero; otherwise, show a warning)
+
+
     import java.util.Scanner;
 
     public class MyProgram
