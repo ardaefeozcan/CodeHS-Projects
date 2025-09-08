@@ -1,4 +1,11 @@
-#
+#ProblemScenerioQ4
+
+Without using Math.sqrt, compute the square root of a number N using Newton’s method with three unrolled steps:
+-- x_(k+1) = 1/2 * ( x_k + N / x_k ) --
+Start with x0 = N/2.
+Compute x1, x2, and x3 manually (no loops, no if).
+Print the approximation in decimal and integer.
+
 
     import java.util.Scanner;
     
